@@ -1,4 +1,4 @@
-## Hi there, I'm [Vamshidhar](https://vamshi4067.github.io/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> !
+## Hi there, I'm [Vamshidhar](https://vamshi4067.github.io/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vamshi4067&style=flat-square)
 
