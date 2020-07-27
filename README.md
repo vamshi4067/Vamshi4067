@@ -36,7 +36,7 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vamshidhar%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vamshidhar-g/)](https://www.linkedin.com/in/vamshidhar-g/) [![GitHub Badge](https://img.shields.io/badge/-@Vamshi4067-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/vamshi4067)](https://github.com/vamshi4067) [![Gmail Badge](https://img.shields.io/badge/-gunnalavamshi-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:gunnalavamshi@gmail.com)](mailto:gunnalavamshi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vamshidhar-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vamshidhar-g/)](https://www.linkedin.com/in/vamshidhar-g/) [![GitHub Badge](https://img.shields.io/badge/-@Vamshi4067-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/vamshi4067)](https://github.com/vamshi4067) [![Gmail Badge](https://img.shields.io/badge/-gunnalavamshi-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:gunnalavamshi@gmail.com)](mailto:gunnalavamshi@gmail.com)
 
 ### Top repositories
 
